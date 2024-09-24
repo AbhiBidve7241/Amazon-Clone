@@ -291,9 +291,15 @@ justify-content: center;
 }
 
 
+.box8{
+margin-left:20px;
+    
+}
+
 
 .box-img-jersey{
 justify-content: center;
+    margin-left: 10px;
 
 
 }
